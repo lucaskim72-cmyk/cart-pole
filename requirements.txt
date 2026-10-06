@@ -1,0 +1,6 @@
+streamlit>=1.32
+gymnasium[classic-control]>=0.29
+numpy
+matplotlib
+opencv-python-headless
+Pillow
